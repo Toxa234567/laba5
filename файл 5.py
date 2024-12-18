@@ -4,7 +4,7 @@ a = random.randint(1, 3)
 s = random.randint(4, 30)
 
 
-
+print()
 def game(s, a):
      try:
          while True:
